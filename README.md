@@ -10,3 +10,9 @@ This app used the following technologies:
   YARN
   REACT
   NODE
+
+## Instructions to Deploy
+
+Copy the folder locally and perform an NPM install.
+Start the app by typing "yarn start" in your node command. 
+The app should deploy locally on localhost 3000. 
